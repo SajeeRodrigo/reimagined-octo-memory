@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1034171571081",
+    "project_id": "clone-f517c",
+    "storage_bucket": "clone-f517c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034171571081:android:fd7238858bccf3c6abdf58",
+        "android_client_info": {
+          "package_name": "com.sajeerodrigo.usersapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034171571081-18mlp3ta83k87uncnpi8rrafbqnvvfmb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCyX6t-oE3mAzMR3MNMMbKTez-KEJe86Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034171571081-18mlp3ta83k87uncnpi8rrafbqnvvfmb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
