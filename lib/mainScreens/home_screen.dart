@@ -27,7 +27,7 @@ class _HomeScreenState extends State<HomeScreen> {
               ),
           ),
         ),
-        title:const Text("iShop",
+        title:const Text("Elysium",
         style: TextStyle(
           fontSize: 24,
           fontWeight: FontWeight.bold,

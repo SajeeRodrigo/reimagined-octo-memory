@@ -31,7 +31,7 @@ class _AuthScreenState extends State<AuthScreen> {
           ),
           ),
           title: const Text(
-            "iShop",
+            "Elysium",
             style: TextStyle(
               fontSize: 30,
               letterSpacing: 3,

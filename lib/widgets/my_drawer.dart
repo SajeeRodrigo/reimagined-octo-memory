@@ -27,6 +27,7 @@ class _MyDrawerState extends State<MyDrawer> {
                   child: CircleAvatar(
                    // backgroundImage: NetworkImage("https://www.google.com/imgres?imgurl=https%3A%2F%2Fstatic.remove.bg%2Fremove-bg-web%2F588fbfdd2324490a4329d4ad22d1bd436e1d384a%2Fassets%2Fstart-1abfb4fe2980eabfbbaaa4365a0692539f7cd2725f324f904565a9a744f8e214.jpg&imgrefurl=https%3A%2F%2Fwww.remove.bg%2F&tbnid=sp12V8x9gw6KuM&vet=12ahUKEwi09auLroX4AhXCTXwKHaGXAGoQMygDegUIARC5AQ..i&docid=4O2GvGuD-Cf09M&w=510&h=340&q=image&ved=2ahUKEwi09auLroX4AhXCTXwKHaGXAGoQMygDegUIARC5AQ"),
                   //backgroundImage: AssetImage("assets/images/sajee.jpg"),
+                  
                   ),
                 ),
 
